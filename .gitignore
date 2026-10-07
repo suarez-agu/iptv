@@ -1,0 +1,6 @@
+# Downloaded setup archive(s)
+iptv-org-el-trece-mirror*.zip
+
+# Python cache files
+__pycache__/
+*.py[cod]
